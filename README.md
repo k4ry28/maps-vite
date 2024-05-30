@@ -1,6 +1,6 @@
 # Maps App
 
-This is a simple web app that uses React + Vite and MapLibre, React Map GL and Tailwind CSS. The project is intended to be used as a practice for React hooks, creating better components, and managing the sources and layers of the map dynamically.
+This is a simple web app that uses React + Vite and MapLibre, React Map GL and Tailwind CSS. The project is intended to be used as a practice for Front End development, React hooks, creating better components, and managing the sources and layers of the map dynamically.
 
 ### Technologies
 
